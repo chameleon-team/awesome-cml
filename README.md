@@ -41,4 +41,3 @@
 - [TODO-LIST](https://github.com/beatles-chameleon/cml-todoMVC)
 - [动画](https://github.com/beatles-chameleon/cml-animation)
 - [只跨web和小程序的应用](http://cmljs.org/doc/example/web_wx.html)
-- [手把手教你系列- 实现复杂应用](http://cmljs.org/doc/example/complex.html)
