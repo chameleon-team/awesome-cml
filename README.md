@@ -1,12 +1,13 @@
 # <img src="https://didi.github.io/chameleon/doc/assets/100*100.png"/> Awesome Chameleon
 
-## Awesome Chameleon
+## 目录
 
 - [官方资源](#官方资源)
     - [Chameleon官网](#Chameleon官网)
-    - [Chameleon官方文档及快速上手](#Chameleon官方文档及快速上手)
+    - [Chameleon官方文档](#Chameleon官方文档)
     - [Chameleon官方仓库](#Chameleon官方仓库)
     - [Chameleon官方实例](#Chameleon官方实例)
+
 
 
 # 官方资源
@@ -16,7 +17,7 @@
 
 - [Chameleon官网](https://cmljs.org)
 
-### Chameleon官方文档及快速上手
+### Chameleon官方文档
 
 - [Chameleon官方文档及快速上手](https://cmljs.org/doc/quick_start/quick_start.html)
 
