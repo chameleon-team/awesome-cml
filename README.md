@@ -23,8 +23,8 @@
 ### Chameleon官方仓库
 
 - [Chameleon主仓库](https://github.com/didi/chameleon)
-- [Chameleon UI组件仓库](https://github.com/didi/chameleon)
-- [Chameleon API仓库](https://github.com/didi/chameleon)
+- [Chameleon UI组件仓库](https://github.com/beatles-chameleon/cml-ui)
+- [Chameleon API仓库](https://github.com/beatles-chameleon/chameleon-api)
 - [Chameleon Android SDK仓库](https://github.com/beatles-chameleon/chameleon-sdk-android)
 - [Chameleon iOS SDK仓库](https://github.com/beatles-chameleon/chameleon-sdk-ios)
 
