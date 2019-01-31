@@ -35,9 +35,8 @@
 - [API实例](http://cmljs.org/doc/example/main.html)
 
 ### 官方Demo
-
-- [内置组件库](https://github.com/beatles-chameleon/chameleon-ui-builtin)
-- [扩展组件库](https://github.com/beatles-chameleon/cml-ui)
+- [组件库&&api](https://github.com/beatles-chameleon/cml-demo)
+- [仿网易cml跨端应用](https://github.com/beatles-chameleon/cml-yanxuan)
 - [TODO-LIST](https://github.com/beatles-chameleon/cml-todoMVC)
 - [动画](https://github.com/beatles-chameleon/cml-animation)
 - [只跨web和小程序的应用](http://cmljs.org/doc/example/web_wx.html)
