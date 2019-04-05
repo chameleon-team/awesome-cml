@@ -43,6 +43,7 @@
 - [只跨web和小程序的应用](http://cmljs.org/doc/example/web_wx.html)
 
 ### 精选文章
+- [五分钟上手CML视频教程](https://mp.weixin.qq.com/s/3NY_pbqDVnbQSYQG_D2qiA)
 - [重磅！滴滴开源跨平台统一MVVM框架Chameleon](https://mp.weixin.qq.com/s/wk7yi4LWGaPPIf1DPRRrOA)
 - [Chameleon跨端框架——一个理想主义团队的开源作品](https://mp.weixin.qq.com/s/O5DnyMwUXeSIYRlt7PSoOg)
 - [Chanmeleon原理首发：其它跨多端统一框架都是假的？](https://mp.weixin.qq.com/s/nabaad5UnnNUZovEV8df-Q
