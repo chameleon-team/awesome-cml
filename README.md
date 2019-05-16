@@ -35,6 +35,7 @@
 ### Chameleon官方实例
 
 - [API实例](http://cmljs.org/doc/example/main.html)
+- [扩展新端操作文档](https://cmljs.org/doc/extend/quickstart.html )
 
 ### 官方Demo
 - [组件库&&api](https://github.com/beatles-chameleon/cml-demo)
@@ -55,3 +56,4 @@
 ### 相关Issues
 - [关于扩展新端](https://github.com/didi/chameleon/issues/36)
 - [Chameleon和业内已有框架的区别](https://github.com/didi/chameleon/issues/12)
+- [扩展新端进行中示例-扩展头条小程序：](https://github.com/didi/chameleon/issues/157)
