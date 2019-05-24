@@ -22,7 +22,13 @@
 
 ### Chameleon官方文档
 
-- [Chameleon官方文档及快速上手](https://cmljs.org/doc/quick_start/quick_start.html)
+- [快速上手](https://cml.js.org/doc/quick_start/quick_start.html)
+- [框架文档](https://cml.js.org/doc/framework/framework.html)
+- [组件文档](https://cml.js.org/doc/component/component.html)
+- [API文档](https://cml.js.org/doc/api/api.html)
+- [高级使用文档](https://cml.js.org/doc/extend/advanced_use.html)
+- [教程实例](https://cml.js.org/doc/example/main.html)
+- [FAQ](https://cml.js.org/doc/framework/faq.html)
 
 ### Chameleon官方仓库
 
@@ -32,16 +38,15 @@
 - [Chameleon Android SDK仓库](https://github.com/beatles-chameleon/chameleon-sdk-android)
 - [Chameleon iOS SDK仓库](https://github.com/beatles-chameleon/chameleon-sdk-ios)
 
-### Chameleon官方实例
 
-- [API实例](http://cmljs.org/doc/example/main.html)
-- [扩展新端操作文档](https://cmljs.org/doc/extend/quickstart.html )
+
 
 ### 官方Demo
-- [组件库&&api](https://github.com/beatles-chameleon/cml-demo)
+- [组件库&&api示例](https://github.com/beatles-chameleon/cml-demo)
 - [仿网易cml跨端应用](https://github.com/beatles-chameleon/cml-yanxuan)
 - [TODO-LIST](https://github.com/beatles-chameleon/cml-todoMVC)
 - [只跨web和小程序的应用](http://cmljs.org/doc/example/web_wx.html)
+- [API实例](http://cmljs.org/doc/example/main.html)
 
 ### 精选文章
 - [五分钟上手CML视频教程](https://mp.weixin.qq.com/s/3NY_pbqDVnbQSYQG_D2qiA)
@@ -52,6 +57,8 @@
 - [CML更新|新增百度小程序、支付宝小程序](https://mp.weixin.qq.com/s/ZUY618466MXDBQNEMLgzPQ)
 - [编写chameleon跨端组件的正确姿势](https://mp.weixin.qq.com/s/N-d-icYWqMBmOXQCw8U4Pg)
 - [重磅！滴滴开源首次发布年度报告](https://mp.weixin.qq.com/s/p5nTqVUew76soosd6SxYAw)
+- [跨端标准协议](https://cmljs.org/doc/extend/extend.html )
+
 
 ### 相关Issues
 - [关于扩展新端](https://github.com/didi/chameleon/issues/36)
