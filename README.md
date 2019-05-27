@@ -47,6 +47,7 @@
 - [TODO-LIST](https://github.com/beatles-chameleon/cml-todoMVC)
 - [只跨web和小程序的应用](http://cmljs.org/doc/example/web_wx.html)
 - [API实例](http://cmljs.org/doc/example/main.html)
+- [FlexBox布局案例](https://github.com/startheart/cml-flexbox)
 
 ### 精选文章
 - [五分钟上手CML视频教程](https://mp.weixin.qq.com/s/3NY_pbqDVnbQSYQG_D2qiA)
