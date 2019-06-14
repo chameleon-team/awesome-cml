@@ -56,10 +56,12 @@
 - [Chameleon跨端框架——一个理想主义团队的开源作品](https://mp.weixin.qq.com/s/O5DnyMwUXeSIYRlt7PSoOg)
 - [Chanmeleon原理首发：其它跨多端统一框架都是假的？](https://mp.weixin.qq.com/s/nabaad5UnnNUZovEV8df-Q
 )
+
 - [CML更新|新增百度小程序、支付宝小程序](https://mp.weixin.qq.com/s/ZUY618466MXDBQNEMLgzPQ)
 - [编写chameleon跨端组件的正确姿势](https://mp.weixin.qq.com/s/N-d-icYWqMBmOXQCw8U4Pg)
-- [重磅！滴滴开源首次发布年度报告](https://mp.weixin.qq.com/s/p5nTqVUew76soosd6SxYAw)
-- [跨端标准协议](https://cmljs.org/doc/extend/extend.html )
+- [青桔单车 chameleon 跨平台实践
+](https://juejin.im/post/5cf7c20de51d45108126d1fb)
+- [跨端标准协议](https://cmljs.org/doc/extend/extend.html)
 
 
 ### 相关Issues
