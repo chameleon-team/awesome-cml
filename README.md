@@ -39,7 +39,7 @@
 - [TODO-LIST](https://github.com/beatles-chameleon/cml-todoMVC)
 - [只跨web和小程序的应用](http://cmljs.org/doc/example/web_wx.html)
 - [API实例](http://cmljs.org/doc/example/main.html)
-- [FlexBox布局案例](https://github.com/startheart/cml-flexbox)
+- [FlexBox布局案例集合](https://github.com/startheart/cml-flexbox)
 
 ### 精选文章
 - [**青桔单车 chameleon 跨平台实践**](https://juejin.im/post/5cf7c20de51d45108126d1fb)
