@@ -47,7 +47,6 @@
 - [重磅！滴滴开源跨平台统一MVVM框架Chameleon](https://mp.weixin.qq.com/s/wk7yi4LWGaPPIf1DPRRrOA)
 - [Chameleon跨端框架——一个理想主义团队的开源作品](https://mp.weixin.qq.com/s/O5DnyMwUXeSIYRlt7PSoOg)
 - [Chanmeleon原理首发：其它跨多端统一框架都是假的？](https://mp.weixin.qq.com/s/nabaad5UnnNUZovEV8df-Q)
-- [CML更新|新增百度小程序、支付宝小程序](https://mp.weixin.qq.com/s/ZUY618466MXDBQNEMLgzPQ)
 - [跨端标准协议](https://cmljs.org/doc/extend/extend.html)
 
 
